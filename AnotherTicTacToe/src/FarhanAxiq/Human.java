@@ -30,7 +30,7 @@ class Human extends Player {
 
             ina = JOptionPane.showInputDialog(in , "Please enter row");
             int row = Integer.parseInt(ina);
-            ina = JOptionPane.showInputDialog(in , "Please enter row");
+            ina = JOptionPane.showInputDialog(in , "Please enter column");
             int col = Integer.parseInt(ina);
 
 
